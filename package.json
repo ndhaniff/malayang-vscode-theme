@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/ndhaniff/malayang-vscode-theme"
   },
+  "icon": "images/logo.jpg",
   "keywords": [
     "theme",
     "dark theme",
