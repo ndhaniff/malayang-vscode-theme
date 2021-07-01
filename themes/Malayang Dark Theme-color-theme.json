@@ -8,6 +8,7 @@
     "sideBarTitle.foreground": "#fff",
     "sideBar.background": "#20242A",
     "statusBar.background": "#20242A",
+    "sideBar.border": "#535353",
     "sideBarSectionHeader.foreground": "#fff",
     "gitDecoration.modifiedResourceForeground": "#BAE48C",
     "gitDecoration.ignoredResourceForeground": "#969696",
