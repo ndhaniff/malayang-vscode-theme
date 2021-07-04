@@ -183,6 +183,20 @@
       }
     },
     {
+      "name": "entity name tag",
+      "scope": "entity.name.tag.js",
+      "settings": {
+        "foreground": "#17d1fe"
+      }
+    },
+    {
+      "name": "xml tag",
+      "scope": ["entity.name.tag.localname.xml", "entity.name.tag.html"],
+      "settings": {
+        "foreground": "#17d1fe"
+      }
+    },
+    {
       "name": "math js/ts",
       "scope": "support.constant.math",
       "settings": {
@@ -636,9 +650,35 @@
     },
     {
       "name": "Variable $this php",
-      "scope": "variable.language.this.php",
+      "scope": ["variable.language.this.php"],
       "settings": {
-        "foreground": "#17D1FE"
+        "foreground": "#17D1FE",
+        "fontStyle": "bold italic"
+      }
+    },
+    {
+      "name": "Bold keyword php",
+      "scope": [
+        "storage.modifier.php",
+        "keyword.other.use.php",
+        "punctuation.section.array.begin.php",
+        "punctuation.section.array.end.php",
+        "punctuation.terminator.expression.php",
+        "punctuation.definition.arguments.begin.bracket.round.php",
+        "punctuation.definition.arguments.end.bracket.round.php",
+        "punctuation.definition.parameters.end.bracket.round.php",
+        "punctuation.definition.parameters.begin.bracket.round.php"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "symbol php",
+      "scope": ["storage.modifier.php"],
+      "settings": {
+        "foreground": "#17D1FE",
+        "fontStyle": "bold"
       }
     },
     {
@@ -646,6 +686,13 @@
       "scope": ["variable.other.property.php"],
       "settings": {
         "foreground": "#C9ABED"
+      }
+    },
+    {
+      "name": "Function name php",
+      "scope": ["storage.type.function.php"],
+      "settings": {
+        "foreground": "#17D1FE"
       }
     },
     {
