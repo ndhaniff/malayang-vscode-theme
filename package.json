@@ -3,7 +3,7 @@
   "displayName": "Melayang Dark Theme",
   "description": "Readable VS Code themes with Melayang's blue, pink, and green identity in Dark, Midnight, Eclipse, and Light variants.",
   "publisher": "ndhaniff",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/ndhaniff/malayang-vscode-theme"
