@@ -37,19 +37,19 @@ Melayang now uses a more consistent token system across supported languages:
 
 ### Malayang Dark Theme
 
-![Malayang Dark Theme preview](./images/Malayang Dark Theme.png)
+![Malayang Dark Theme preview](./images/Malayang%20Dark%20Theme.png)
 
 ### Malayang Midnight Theme
 
-![Malayang Midnight Theme preview](./images/Malayang Midnight Theme.png)
+![Malayang Midnight Theme preview](./images/Malayang%20Midnight%20Theme.png)
 
 ### Malayang Eclipse Theme
 
-![Malayang Eclipse Theme preview](./images/Malayang Eclipse Theme.png)
+![Malayang Eclipse Theme preview](./images/Malayang%20Eclipse%20Theme.png)
 
 ### Malayang Light Theme
 
-![Malayang Light Theme preview](./images/Malayang Light Theme.png)
+![Malayang Light Theme preview](./images/Malayang%20Light%20Theme.png)
 
 ## Usage
 
