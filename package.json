@@ -1,9 +1,9 @@
 {
   "name": "melayang-dark-theme",
   "displayName": "Melayang Dark Theme",
-  "description": "Theme that make you fly",
+  "description": "Readable VS Code themes with Melayang's blue, pink, and green identity in Dark, Midnight, Eclipse, and Light variants.",
   "publisher": "ndhaniff",
-  "version": "0.3.0",
+  "version": "0.6.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ndhaniff/malayang-vscode-theme"
@@ -29,6 +29,21 @@
         "label": "Malayang Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Malayang Dark Theme-color-theme.json"
+      },
+      {
+        "label": "Malayang Midnight Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Malayang Midnight Theme-color-theme.json"
+      },
+      {
+        "label": "Malayang Eclipse Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Malayang Eclipse Theme-color-theme.json"
+      },
+      {
+        "label": "Malayang Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Malayang Light Theme-color-theme.json"
       }
     ]
   }
